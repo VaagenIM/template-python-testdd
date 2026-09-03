@@ -1,4 +1,6 @@
-# ✨ Prosjektnavn
+# ✨ Prosjektnavn (Python)
+
+Instansier prosjektet ved å først kjøre `uv sync`
 
 > [!IMPORTANT]
 > **README.md – endre denne filen!**
