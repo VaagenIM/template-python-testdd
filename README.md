@@ -1,6 +1,6 @@
 # ✨ Prosjektnavn (Python)
 
-Instansier prosjektet ved å først kjøre `uv sync`
+Instansier prosjektet ved å først kjøre `uv sync` og deretter `uv venv`
 
 > [!IMPORTANT]
 > **README.md – endre denne filen!**
